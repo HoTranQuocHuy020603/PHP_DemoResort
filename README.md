@@ -16,6 +16,10 @@ Cung cấp các bước cài đặt! Thật đáng ngạc nhiên khi có nhiều
 - b1
 - b2
 - b3
+## Một số đoạn code:
+```php
+session.start()
+```
 ## Thêm contributors:
 Điền tên bất kỳ contributor nào đã có nhiều đóng góp cho dự án vào mục tác giả. Đó là một cách hay để làm cho dự án nguồn mở được cảm thấy như một nỗ lực của cả nhóm và thừa nhận sự đóng góp của tất cả những người đã dành thời gian để đóng góp.
 ## Một số hình ảnh minh họa:
