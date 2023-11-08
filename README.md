@@ -12,11 +12,12 @@ This is a resort management project write by PHP code style with MySQl for , wit
 ***Download project***
 - Step 1: Download the project to your computer.
 - Step 2: Unzip the project to `xampp/htdocs` where the xampp folder is located.
+  
 ***Project launch***
 - Step 1: Open the XAMPP application.
 - Step 2: Launch Apache and MySQL.
 - Step 3: Go to the browser and type the following path: > localhost/_downloaded project_/.
 ## Find me here:
-- Contact with Gmail: hotranquochuy0306@gmail.com
+- Contact with Gmail: `hotranquochuy0306@gmail.com`
 - Github: [https://github.com/HoTranQuocHuy020603](https://github.com/HoTranQuocHuy020603/)
 - Youtube: [https://www.youtube.com/@huydiscover1924](https://www.youtube.com/@huydiscover1924/).
