@@ -20,4 +20,3 @@ This is a resort management project write by PHP code style with MySQl for , wit
 ## Find me here:
 - Contact with Gmail: `hotranquochuy0306@gmail.com`
 - Github: [https://github.com/HoTranQuocHuy020603](https://github.com/HoTranQuocHuy020603/)
-- Youtube: [https://www.youtube.com/@huydiscover1924](https://www.youtube.com/@huydiscover1924/).
